@@ -1,10 +1,11 @@
 <script setup lang="ts">
 
-import SideNavBar from "@/components/SideNavBar.vue";
 </script>
 
 <template>
-<SideNavBar></SideNavBar>
+  <div>
+    <h1>Dashboard</h1>
+  </div>
 </template>
 
 <style scoped>
